@@ -1,2 +1,2 @@
 # jma
-A Mail Archiver
+A Mail Archiver by linfchang
